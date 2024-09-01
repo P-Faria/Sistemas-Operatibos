@@ -1,5 +1,6 @@
-# Sistemas-Operativos
+# SDStore: Armazenamento Eficiente e Seguro de Ficheiros
 
+## Trabalho de grupo referente á disciplina de Sistemas Operativos
 
 Pretende-se implementar um serviço que permita aos utilizadores armazenar uma cópia dos seus ficheiros de forma segura e
 eficiente, poupando espaço de disco. Para tal o serviço disponibilizará funcionalidades de compressão e cifragem dos ficheiros a
